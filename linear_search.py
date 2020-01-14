@@ -22,6 +22,7 @@ if z == 1:
                      break
                 else:
                         print("It's not present :(")
+                        break
                 
 elif z == 2:			
         # for integer format
@@ -32,7 +33,7 @@ elif z == 2:
 
         arr = [132, 11, 15, 22, 19, 25, 10]
 
-        n = int(input("/nEnter the number :" ))
+        n = int(input("Enter the number :" ))
 
         for i in range(len(arr)):
                 if n in arr:
@@ -41,6 +42,7 @@ elif z == 2:
                 else:
                         print("sry ur wrong")
                         chance -= 1
+                        break
                 if chance  == 0:
                         print("Sorry you lose !")
                         break

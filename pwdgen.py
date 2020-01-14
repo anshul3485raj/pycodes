@@ -2,8 +2,8 @@
 
 # importing modules
 import string
-import random
 
+import random
 
 # defining pw_gen function
 # for generation of random passwords
@@ -13,3 +13,6 @@ def pw_gen(size = 8, chars=string.ascii_letters + string.digits + string.punctua
 
 # printing the random password onscreen
 print(pw_gen(int(input("How many characters in your password ?"))))
+
+
+

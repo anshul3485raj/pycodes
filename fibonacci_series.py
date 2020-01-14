@@ -25,11 +25,15 @@ def fib(n):
         print(a)
         print(b)
 
+        # to iterate the string from 2 to n - 1
         for x in range(2, n):
-
+            
+            # c = a + b i.e., 0 + 1
             c = a + b
+            # swapping to the next number
             a = b
             b = c
+            # printing the fib series
             print(c)
 
 fib(num)
