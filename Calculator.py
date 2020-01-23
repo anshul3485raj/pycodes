@@ -1,5 +1,5 @@
 # Script to make a standard calculator
-
+   
 
 # importing math module
 import math
@@ -32,6 +32,7 @@ def add():
 
 
 # defining the subtraction function
+# some prblm need to be fixed
 def sub():
     x = 0
     n = int(input("How many numbers you want to subtract :"))

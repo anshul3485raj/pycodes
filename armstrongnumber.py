@@ -3,17 +3,22 @@
 # let the sum = 0
 sum = 0
 
-# asking the user to input a number
-n = int(input("Enter the number :"))
+list_2 = []
 
-temp = n
-while temp > 0:
-    rem = temp % 10
-    sum += rem ** 3
-    temp //= 10
 
-if n == sum:
-    print(n, "is an armstrong number :)")
-else:
-    print(n, "is not a armstrong number xD")
-    
+for i in range(100, 1000):
+    list_2.append(i)
+
+
+    temp = i
+    while temp > 0:
+        rem = temp % 10
+        sum += rem ** 3
+        temp //= 10
+
+    if i == sum:
+        print(i, "is an armstrong number :)")
+    else:
+        print(i, "is not a armstrong number xD")
+        
+print(max(list_2))

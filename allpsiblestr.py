@@ -16,4 +16,3 @@ for i in range(math.factorial(len(char_list))):
     random.shuffle(char_list)
     # joining and printing the chars
     print( ' '.join(char_list))
-

@@ -10,4 +10,4 @@ def age(n):
     else:
         print("Sorry u can't vote")
 
-print(age(n))
+age(n)

@@ -23,3 +23,6 @@ while(n > 0):
 
 # displaying results onscreen			
 print(rev)
+
+if n == rev:
+	print(rev,"is a palindrome of", n)
