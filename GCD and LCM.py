@@ -14,5 +14,6 @@ a = 10
 b = 5
 
 while True:
-    gcd(a, b)
-    lcm(a, b)
+    print(gcd(a, b))
+    print(lcm(a, b))
+    break

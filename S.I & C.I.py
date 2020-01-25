@@ -16,4 +16,16 @@ if choice == 1:
     print("Simple Interest", Simple_Interest)
 
 if choice == 2:
-    pass
+    def compound_interest(principle, rate, time):
+         result = principle * (pow((1 + rate / 100), time))
+         return result
+            
+            p = int(input("Enter the principal amount:"))
+            r = int(input("Enter the interest rate: "))
+            t = int(input("Enter the time in years: "))
+        
+            amount = compound_interest(p, r, t)
+            interest = amount - p
+
+            print("Compound amount is :", amount)
+            print("Compound amount is :", interest)
