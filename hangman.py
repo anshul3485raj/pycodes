@@ -6,10 +6,12 @@ import time
 # welcoming the user 
 name = input("What's your name ?")
 
-print("Hello", name, "Time to play hangman dude !!!")
+print()
+
+print("Hello", name, "Time to play hangman dude !!!",end="\n\n")
 time.sleep(1)
 
-print("Start guessing...",end="/n/n")
+print("Start guessing...",end="\n\n")
 time.sleep(0.5)
 
 # here is the secret word
