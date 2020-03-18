@@ -20,4 +20,4 @@ if average >= 90:
 elif average < 90 and average > 80:
     print("Your grade is :", "A")
 else:
-    print("Your grade is :", "B")
+    print("Your grade is :", )

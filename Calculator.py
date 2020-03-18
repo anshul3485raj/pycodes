@@ -90,32 +90,30 @@ def sqrt():
 
 
 
-# main loop of the program
-while True:
-    if choice == 1:
-        add()
-        break
+# main program
 
-    if choice == 2:
-        sub()
-        break
+if choice == 1:
+    add()
+    
 
-    if choice == 3:
-        mul()
-        break
+if choice == 2:
+    sub()
+    
 
-    if choice == 4:
-        div()
-        break
+if choice == 3:
+    mul()
 
-    if choice == 5:
-        pow()
-        break
 
-    if choice == 6:
-        fac()
-        break
+if choice == 4:
+    div()
 
-    if choice == 7:
-        sqrt()
-        break
+
+if choice == 5:
+    pow()
+    
+
+if choice == 6:
+    fac()
+
+if choice == 7:
+    sqrt()

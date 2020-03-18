@@ -5,6 +5,7 @@
 # 1.Equilateral triangle
 # 2.Isoceles triangle
 # 3.Scalene triangle
+
 print("1.Equilateral triangle")
 print("2.Triangle")
 

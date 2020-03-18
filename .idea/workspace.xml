@@ -2,15 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="615ce48e-6de7-472e-a1a0-65dd8ea00165" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/addition of random num.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GitHub/Screenshot (44).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GitHub/Screenshot (46).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GitHub/Screenshot (47).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emoji_generator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/armstrong_num.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/fibonacci_series.py" beforeDir="false" afterPath="$PROJECT_DIR$/fibonacci_series.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/first&amp;last_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/first&amp;last_name.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/linear_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/linear_search.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page.html" beforeDir="false" afterPath="$PROJECT_DIR$/page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0 to 9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AAAABBBBCCCCDDDD.PY" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloWorld.py" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/S.I &amp; C.I.py" beforeDir="false" afterPath="$PROJECT_DIR$/S.I &amp; C.I.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/X pow n.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/area_of_triangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/area_of_triangle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/average.py" beforeDir="false" afterPath="$PROJECT_DIR$/average.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/color_list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page.htm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/str.py" beforeDir="false" afterPath="$PROJECT_DIR$/str.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/text.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +36,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1Vc8L9yiYrcThVqpBJ6LOOExgRv" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -36,10 +47,11 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DoomDay" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Python.array">
-    <configuration name="Rock_Paper_Scissors" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.deleting file">
+    <configuration name="area_of_triangle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -51,7 +63,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Rock_Paper_Scissors.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/area_of_triangle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -60,7 +72,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="addition of random num" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="deleting file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,7 +84,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/addition of random num.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deleting file.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -81,7 +93,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="array" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="emoji_generator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,7 +105,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/array.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/emoji_generator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="list&amp;tuple_conversion" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="len_string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -114,7 +126,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list&amp;tuple_conversion.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/len_string.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="rock!paper!scissor!" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="natural number" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,7 +147,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/rock!paper!scissor!.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/natural number.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.array" />
-        <item itemvalue="Python.addition of random num" />
-        <item itemvalue="Python.Rock_Paper_Scissors" />
-        <item itemvalue="Python.rock!paper!scissor!" />
-        <item itemvalue="Python.list&amp;tuple_conversion" />
+        <item itemvalue="Python.deleting file" />
+        <item itemvalue="Python.emoji_generator" />
+        <item itemvalue="Python.area_of_triangle" />
+        <item itemvalue="Python.len_string" />
+        <item itemvalue="Python.natural number" />
       </list>
     </recent_temporary>
   </component>
@@ -184,26 +196,31 @@
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
     <state x="294" y="138" width="1092" height="782" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1680.1020@0.0.1680.1020" timestamp="1577607842787" />
-    <state x="569" y="206" key="FileChooserDialogImpl" timestamp="1577541311353">
-      <screen x="0" y="0" width="1680" height="1020" />
+    <state x="650" y="210" key="FileChooserDialogImpl" timestamp="1584193910180">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="569" y="206" key="FileChooserDialogImpl/0.0.1680.1020@0.0.1680.1020" timestamp="1577541311353" />
-    <state width="1647" height="244" key="GridCell.Tab.0.bottom" timestamp="1578591333835">
-      <screen x="0" y="0" width="1680" height="1020" />
+    <state x="650" y="210" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584193910180" />
+    <state width="1899" height="284" key="GridCell.Tab.0.bottom" timestamp="1584193913351">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1647" height="244" key="GridCell.Tab.0.bottom/0.0.1680.1020@0.0.1680.1020" timestamp="1578591333835" />
-    <state width="1647" height="244" key="GridCell.Tab.0.center" timestamp="1578591333835">
-      <screen x="0" y="0" width="1680" height="1020" />
+    <state width="1899" height="284" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584193913351" />
+    <state width="1899" height="284" key="GridCell.Tab.0.center" timestamp="1584193913351">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1647" height="244" key="GridCell.Tab.0.center/0.0.1680.1020@0.0.1680.1020" timestamp="1578591333835" />
-    <state width="1647" height="244" key="GridCell.Tab.0.left" timestamp="1578591333835">
-      <screen x="0" y="0" width="1680" height="1020" />
+    <state width="1899" height="284" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584193913351" />
+    <state width="1899" height="284" key="GridCell.Tab.0.left" timestamp="1584193913351">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1647" height="244" key="GridCell.Tab.0.left/0.0.1680.1020@0.0.1680.1020" timestamp="1578591333835" />
-    <state width="1647" height="244" key="GridCell.Tab.0.right" timestamp="1578591333835">
-      <screen x="0" y="0" width="1680" height="1020" />
+    <state width="1899" height="284" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584193913351" />
+    <state width="1899" height="284" key="GridCell.Tab.0.right" timestamp="1584193913351">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1647" height="244" key="GridCell.Tab.0.right/0.0.1680.1020@0.0.1680.1020" timestamp="1578591333835" />
+    <state width="1899" height="284" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584193913351" />
     <state width="1647" height="306" key="GridCell.Tab.1.bottom" timestamp="1577698185247">
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
@@ -224,13 +241,16 @@
       <screen x="0" y="0" width="1680" height="1020" />
     </state>
     <state x="217" y="65" key="SettingsEditor/0.0.1680.1020@0.0.1680.1020" timestamp="1577541892665" />
-    <state x="451" y="291" key="com.intellij.ide.util.TipDialog" timestamp="1578590020236">
-      <screen x="0" y="0" width="1680" height="1020" />
+    <state x="515" y="297" key="com.intellij.ide.util.TipDialog" timestamp="1584189239208">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="451" y="291" key="com.intellij.ide.util.TipDialog/0.0.1680.1020@0.0.1680.1020" timestamp="1578590020236" />
-    <state x="333" y="-2" width="1009" height="1470" key="search.everywhere.popup" timestamp="1578379638760">
-      <screen x="0" y="0" width="1680" height="1020" />
+    <state x="515" y="297" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584189239208" />
+    <state x="515" y="300" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1580825344176" />
+    <state x="381" y="-2" width="1154" height="1499" key="search.everywhere.popup" timestamp="1584167503983">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="333" y="-2" width="1009" height="1470" key="search.everywhere.popup/0.0.1680.1020@0.0.1680.1020" timestamp="1578379638760" />
+    <state x="381" y="-2" width="1154" height="1499" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1584167503983" />
   </component>
 </project>
