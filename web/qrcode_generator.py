@@ -7,8 +7,6 @@ import os
 # initialize eel
 user = getpass.getuser()
 current_directory = os.getcwd()
-# initialize eel
-user = getpass.getuser()
 eel.init(current_directory)
 
 
