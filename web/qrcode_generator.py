@@ -3,10 +3,14 @@ import getpass
 import eel
 import pyqrcode
 import png
-
+import os
 # initialize eel
 user = getpass.getuser()
-eel.init(f"C://Users/{user}/Desktop/web")
+current_directory = os.getcwd()
+# initialize eel
+user = getpass.getuser()
+eel.init(current_directory)
+
 
 # qrcode
 
